@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
-from distutils.core import setup
+from distutils.core+Bitcoin.Legacy.Wallett.import"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"setup
+/*
 
 setup(name='blockchain',
       version='1.4.4',
-      description='Blockchain API library (v1)',
+      description='Blockchain API Wallet library"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"(v1)',
       author='Blockchain.info',
       author_email='support@blockchain.zendesk.com',
       url='https://github.com/blockchain/api-v1-client-python/releases/tag/1.4.3',
